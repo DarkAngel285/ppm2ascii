@@ -1,1 +1,1 @@
-# ppm2ascii converter on c
+#s ppm2ascii converter on c
